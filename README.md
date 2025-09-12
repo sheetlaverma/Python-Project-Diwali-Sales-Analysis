@@ -1,2 +1,2 @@
 # Python-Project-Diwali-Sales-Analysis
-Diwali sales data analyzed using Python to gain insights for improving customer experience and sales.
+Analyzed Diwali sales data using Python (pandas, matplotlib, seaborn) to clean, visualize, and extract insights that helped improve customer experience and boost sales
